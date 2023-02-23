@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Auto-Generated files
+.idea
+.vscode
+.DS_Store
+
+# My directories
+personal_use
