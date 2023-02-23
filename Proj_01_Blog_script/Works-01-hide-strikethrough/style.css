@@ -1,0 +1,10 @@
+/*Assign attributes to all <s> tags*/
+
+s {
+    text-decoration: line-through;
+}
+
+.hidden {
+    display: none;
+}
+
