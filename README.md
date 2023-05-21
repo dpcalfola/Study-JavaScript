@@ -6,7 +6,7 @@
 * path: / basic_syntax
 
 ### 2. algorithm and data structure with js
-* path: /algorithm_and_datastructure
+* path: /algorithm_and_datastructures
 
 ### 3. js code for my tech blog
 * path: /Proj_01_Blog_script
